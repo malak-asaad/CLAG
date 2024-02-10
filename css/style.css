@@ -1,0 +1,50 @@
+h1 {
+
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  color: #636363;
+  text-align: center;
+}
+
+h2 {
+
+  font-family: Arial;
+  font-size: 25px;
+  color: #636363;
+  text-align: center;
+}
+
+img {
+
+  border-radius: 50%;
+  margin-left: 585px;
+}
+
+.main {
+
+  margin-left: 50px;
+  color: #616A6B;
+  margin-right: 1000px;
+  font-size: 17px;
+  font-family: Arial;
+
+}
+
+.lang {
+
+  margin-left: 40px;
+  color: #636363;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+#cool {
+
+    margin-left: 500px;
+}
+
+.lang p:last-child {
+
+  margin-left: 1000px;
+}
