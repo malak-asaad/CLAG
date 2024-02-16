@@ -1,0 +1,71 @@
+body {
+  background-image: url("../img/backg.png");
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.navbar {
+  font-family: serif;
+  font-size: 20px;
+}
+
+.nav-link {
+  margin-top: 10px;
+}
+
+.box h1 {
+  text-align: center;
+  font-family: serif;
+  font-size: 35px;
+  color: white;
+  margin-top: 40px;
+
+}
+
+p {
+  margin-left: 30px;
+  font-family: serif;
+  margin-right: 500px;
+  font-size: 25px;
+}
+
+.p {
+  width: 350px;
+  margin-left: 830px;
+  right: 100px;
+  position: relative;
+  bottom: 250px;
+}
+
+.ph {
+  border-radius: 25px;
+  margin-bottom: 50px;
+  margin-left: 75px;
+  height: 250px;
+  width: 250px;
+  box-shadow: 2px 2px 4px rgba(0.0,0,0.5);
+  margin-right:  830px;
+  width: 350px;
+  position: relative;
+  bottom: 300px;
+
+}
+
+.box {
+  display :inline-block;
+  width: 1200px;
+  height: 850px;
+  margin: 30px 0px 0px 80px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.box .pr {
+  position: relative;
+  bottom: 600px;
+  left: 440px;
+}
+
+.o {
+  position: relative;
+  bottom: -50px;
+}

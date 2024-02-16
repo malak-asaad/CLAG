@@ -1,0 +1,70 @@
+body {
+  background-image: url("../img/backg.png");
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.navbar {
+  font-family: serif;
+  font-size: 20px;
+}
+
+.nav-link {
+  margin-top: 10px;
+}
+
+.fa {
+  position: relative;
+  left: 490px;
+  top: -10px;
+  color: white;
+  padding: 10px;
+}
+
+.box {
+
+  width: 1200px;
+  height: 500px;
+  margin: 30px 0px 0px 80px;
+  background-color: rgba(0,0,0,0.5);
+
+}
+
+.box .head, .box .par {
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-size: 35px;
+}
+
+.box .par {
+  left: 50px;
+  font-size: 25px;
+}
+
+.box hr {
+  border: 1px solid #FFD700;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.box .sc {
+  position: relative;
+  left: 500px;
+  color: white;
+  font-family: serif;
+  font-size: 30px;
+}
+
+.box .pa {
+  position: relative;
+  text-align: center;
+  left: 540px;
+  color: #67A867;
+  font-family: serif;
+  font-size: 25px;
+}
+
+.box .sr {
+  left: 520px;
+}
