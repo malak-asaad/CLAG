@@ -32,11 +32,11 @@ body {
 p {
   text-align: center;
   font-family: serif;
-  font-size: 35px;
+  font-size: 25px;
   color: white;
 }
 
-.par, .form-group {
+.par,{
 
   font-size: 20px;
   text-align: left;
@@ -45,13 +45,15 @@ p {
 
 }
 
- .btn {
-  left: 2%;
-  position: relative;
+.ab {
+  font-size: 35px;
 }
 
-.donation {
+.sr {
+  left: 520px;
+  position: relative;
+  text-align: center;
+  color: #67A867;
+  font-family: serif;
   font-size: 25px;
-  text-align: left;
-  margin-left: 25px;
 }
